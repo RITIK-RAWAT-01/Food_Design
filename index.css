@@ -518,7 +518,7 @@
     grid-gap: 6px;    
 }
 .grid .one{
-    background-image: url(/img/pexels-alleksana-4224305.jpg);
+    background-image: url(./img/pexels-alleksana-4224305.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
@@ -527,7 +527,7 @@
     grid-row: 2 span;
 }
 .grid .two{
-    background-image: url(/img/pexels-enesfi̇lm-9394526.jpg);
+    background-image: url(./img/pexels-enesfi̇lm-9394526.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
@@ -535,14 +535,14 @@
     grid-row: 2 span;
 }
 .grid .three{
-    background-image: url(/img/pexels-alteredsnaps-14906564.jpg);
+    background-image: url(./img/pexels-alteredsnaps-14906564.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
     border-radius: 6px;
 }
 .grid .four{
-    background-image: url(/img/pexels-skyler-ewing-9281134.jpg);
+    background-image: url(./img/pexels-skyler-ewing-9281134.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
@@ -550,21 +550,21 @@
     grid-row: 2 span;
 }
 .grid .five{
-    background-image: url(/img/pexels-daniel-ruiz-9251137.jpg);
+    background-image: url(./img/pexels-daniel-ruiz-9251137.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
     border-radius: 6px;
 }
 .grid .six{
-    background-image: url(/img/pexels-jer-chung-2059151.jpg);
+    background-image: url(./img/pexels-jer-chung-2059151.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
     border-radius: 6px;
 }
 .grid .seven{
-    background-image: url(/img/pexels-javier-disabato-4190997.jpg);
+    background-image: url(./img/pexels-javier-disabato-4190997.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
